@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="toggle_off">Play second</string>
+    <string name="toggle_on">Play first</string>
+</resources>
